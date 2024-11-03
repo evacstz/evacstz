@@ -1,7 +1,5 @@
 ## ⋅˚₊‧ ୨ eva ୧ ‧₊˚ ⋅
 
-- 🌺 Des. de Sistemas ⅓
-- 🌷 @evalhn
-- 🪷 livres & reves
-
-  
+- 🪼 Des. de Sistemas ⅓
+- 🪻 @evalhn
+- 🐈‍⬛ livres & reves
