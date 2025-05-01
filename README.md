@@ -1,5 +1,3 @@
 ## ⋅˚₊‧ ୨ eva ୧ ‧₊˚ ⋅
 
-- 🪼 Des. de Sistemas ⅔
-- 🪻 @evalhn
-- 🐈‍⬛ resilience
+- Téc. Des. de Sistemas ⅔
