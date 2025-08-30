@@ -1,3 +1,3 @@
 ## ⋅˚₊‧ ୨ eva ୧ ‧₊˚ ⋅
 
-- Téc. Des. de Sistemas ⅔
+- Téc. Sistemas ⅔
